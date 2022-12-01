@@ -4,8 +4,8 @@
   "description": "Code Repository for Advent of Code 2022 challenge",
   "main": "index.js",
   "scripts": {
-    "test": "jest day_**/test.js",
-    "test-watch": "jest day_**/test.js --watch"
+    "test": "jest",
+    "test-watch": "jest --watch"
   },
   "repository": {
     "type": "git",
